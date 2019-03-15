@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GlideApp</string>
+    <string name="glide">Glide</string>
+    <string name="picasso">Picasso</string>
+</resources>
